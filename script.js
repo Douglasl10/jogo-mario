@@ -102,11 +102,3 @@ document.addEventListener('keypress', e => {
     }
 })
 
-let spaceCount = 0;
-
-document.addEventListener("keydown", (event) =>{
-    if(event.code === "Space"){
-        spaceCount++;
-        document.getElementById('spaceCounter').textContent = spaceCount;
-    }
-})

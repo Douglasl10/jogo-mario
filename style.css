@@ -4,15 +4,6 @@
     box-sizing: border-box;
 }
 
-body{
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background: linear-gradient(#87ceeb, #e0f6ff);
-}
 
 .game{
     width: 100%;
